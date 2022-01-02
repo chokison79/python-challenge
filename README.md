@@ -1,5 +1,5 @@
-# python-challenge
-phython homework
+# Python-challenge
+Python homework
 * The purpose of this challenge, is to create a Python script for analyzing the financial records of my company. I  will be using the given  set of financial data called budget_data.csv from the resources folder (PyBank/Resources/budget_data.csv).
 
 * The Python script should be able to analyzes the records to calculate each of the following:
